@@ -22,3 +22,5 @@ The PDF file named “VBA_Script_Challenge_2” will be able to analyze the data
     1.	Run the VBA script on every worksheet every year by just running the VBA script once
 
 The three screen shots are of the final results for each year of the Multi Year Stock Data.
+
+I also added the VBA scripts in Word documents so that the code can be easily copied and tested.
